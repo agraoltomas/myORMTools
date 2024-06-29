@@ -1,4 +1,4 @@
-module myORMTools
+module github.com/agraoltomas/myORMTools
 
 go 1.21
 
